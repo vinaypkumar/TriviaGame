@@ -1,0 +1,40 @@
+body{
+	padding: 50px;
+	background: url('../images/bg.jpg');
+}
+
+p { text-align: center }
+h1 { text-align: center }
+h3 { text-align: center }
+h4 { text-align: center}
+
+.question{
+	text-align: center;
+	padding: 5px;
+	margin: 10px;
+}
+
+button{
+	margin:auto;
+}
+
+#title{
+	font-weight: 900px;
+}
+
+#question11{
+	margin-bottom:10px;
+}
+
+#main{
+	padding:20px;
+	background-color: #ffffff;
+}
+
+#score{
+	color:#dddddd;
+}
+
+.question{
+	color:#ffffff;
+}
